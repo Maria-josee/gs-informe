@@ -115,7 +115,7 @@ Netlify publicará el sitio inmediatamente.
 
 ###  Sobre el repositorio
 
-La carpeta `dist/` no se sube al repositorio, ya que es un artefacto generado.
+La carpeta `dist/` no se sube al repositorio porque se genera automáticamente cada vez que se compila el proyecto.
 
 
 ###  Cuando se agregan nuevos experimentos
